@@ -1,5 +1,7 @@
 package com.timeroar.blog.design.factory.simple;
 
+import com.timeroar.blog.design.factory.IDumplings;
+
 /**
  * <p>SimpleFactoryTest</p>
  *

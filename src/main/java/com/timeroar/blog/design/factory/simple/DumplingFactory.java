@@ -3,6 +3,7 @@ package com.timeroar.blog.design.factory.simple;
 import com.timeroar.blog.design.factory.CabbageDumpling;
 import com.timeroar.blog.design.factory.CeleryDumpling;
 import com.timeroar.blog.design.factory.ChiveEggDumpling;
+import com.timeroar.blog.design.factory.IDumplings;
 
 /**
  * <p>DumplingFactory</p>
