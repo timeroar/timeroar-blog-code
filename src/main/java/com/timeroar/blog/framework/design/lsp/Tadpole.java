@@ -8,7 +8,7 @@ package com.timeroar.blog.framework.design.lsp;
  */
 public class Tadpole extends Frog{
 
-    public static int getArea(Tadpole tadpole) {
+    public synchronized static int getArea(Tadpole tadpole) {
         if (tadpole.getLeg() > 0) {
             return 0;
         }
