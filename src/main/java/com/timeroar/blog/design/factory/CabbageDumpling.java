@@ -10,6 +10,6 @@ package com.timeroar.blog.design.factory;
 public class CabbageDumpling implements IDumplings {
     @Override
     public void make() {
-        System.out.println("制造白菜水饺的过程");
+        System.out.println("制造白菜水饺过程");
     }
 }
